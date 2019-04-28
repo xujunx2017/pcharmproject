@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/linux.iml" filepath="$PROJECT_DIR$/.idea/linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../三方变量系统/.idea/python版本.iml" filepath="$PROJECT_DIR$/../三方变量系统/.idea/python版本.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reptile/.idea/reptile.iml" filepath="$PROJECT_DIR$/../reptile/.idea/reptile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapyproct/.idea/scrapyproct.iml" filepath="$PROJECT_DIR$/../scrapyproct/.idea/scrapyproct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testproject/.idea/testproject.iml" filepath="$PROJECT_DIR$/../testproject/.idea/testproject.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/PycharmProjects/untitled/.idea/untitled.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/三方数据结构化/.idea/三方数据结构化.iml" filepath="$USER_HOME$/PycharmProjects/三方数据结构化/.idea/三方数据结构化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../数据同步/.idea/数据同步.iml" filepath="$PROJECT_DIR$/../数据同步/.idea/数据同步.iml" />
+    </modules>
+  </component>
+</project>

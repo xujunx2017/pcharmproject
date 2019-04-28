@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="appuser@10.0.4.142:22" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="appuser@10.0.4.142:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/xujun" local="$USER_HOME$/PycharmProjects/三方数据结构化" web="" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.0.4.147:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
